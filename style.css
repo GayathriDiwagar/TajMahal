@@ -1,0 +1,146 @@
+body{
+    max-width: 800px;
+    margin: 0  auto 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 80%;
+    margin: 0 auto 10px auto;
+    max-width: 800px;
+    }
+h3{
+    text-align: center;
+    margin-bottom: -15px;
+    margin-top: -15px;
+}
+.title{
+    text-align: center;
+}
+.images{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.para1 ul{
+    text-align: left;
+    padding-left: 30px;
+}
+.quote {
+    color: #3088D5;
+    font-size: 3em;
+    position: absolute;
+    margin-top: -16px;
+  }
+.quotecontent{
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    padding-left: 22px;
+    font-style: italic;
+    color: grey;
+}
+figcaption{
+    text-align: center;
+}
+.fa {
+    padding: 5px;
+    font-size: 30px;
+    width: 31%;
+    height:10px;
+    text-align: center;
+  }
+.fa:hover {
+    opacity: 0.7;
+  }
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+.fa-pinterest {
+    background: #ee5555;
+    color: white;
+  }
+.comment-image{
+    border-radius: 50px;
+    height:100px;
+    float:left;
+    border-bottom:  white;
+    margin-top: 40px;
+  }
+.review{
+    padding-left:100px 
+ 
+}
+.comment{
+    padding-left: 15px;
+    color: grey;
+}
+div.scroll-container {
+    background-color: white;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    height: 190px;
+    width: 90%;
+  }
+div.scroll-container img {
+    padding: 10px;
+    height: 150px;
+  }
+  #face{
+    background-color: #0e0d0d;
+    margin-right: 10px;
+      color: white;
+    
+  }
+  #twit{
+    background-color: #0e0d0d;
+    margin-right: 10px;
+      color: white;
+  }
+  #pint{
+    background-color: #0e0d0d;
+    margin-right: 10px;
+      color: white;
+  }
+  #inst{
+    background-color: #0e0d0d;
+    margin-right: 10px;
+    color: white;
+  }
+  #yout{
+    background-color: #0e0d0d;
+    margin-right: 10px;
+    color: white;
+  }
+  .text{
+    text-align: center;
+  }
+footer{
+    background-color: #0e0d0d;
+    display: flex;
+    width: 100%;
+    min-height: 5%;
+    padding: 10px;
+    color: aliceblue;
+}
+.footer-image{
+    height: 80px;
+    padding-left: 5px;
+  }
+footer i{
+    color:white
+}
+.footer-text{
+    padding-left: 8px;
+    font-size: xx-small;
+    padding-top: 25px;
+}
+.footer-logo{
+   width: auto;
+   padding-left: 250px;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
